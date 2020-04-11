@@ -11,10 +11,15 @@ Currently Password Hatch is designed for Linux based operating systems. I'm plan
 # Installation (Debian/Mint/Ubuntu)
 
 Installing Python3 in Linux based machine
+
 ```sudo apt-get install python3```
+
 Installing Tkinter in Python
+
 ```sudo apt-get install python3-tk```
+
 Installing pyperclip
+
 ```pip3 install pyperclip``` 
 
 # Usage
